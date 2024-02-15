@@ -13,6 +13,5 @@ Acesse o site:
 
 ``` bash
 $ # no terminal digite
-$ git clone https://github.com/arnaldojr/DisruptiveArchitectures/
-
+$ git clone https://github.com/ErickTYamamoto/erickyamamoto.github.io.git
 "erickyamamoto.github.io" 
